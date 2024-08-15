@@ -1,3 +1,3 @@
-![Start Screen](https://github.com/user-attachments/assets/eff644aa-38e4-40f3-9f4a-65db93878735)
+![Start Screen](https://github.com/user-attachments/assets/1287dabb-76f4-46d5-9908-29f839bb7283)
 # Juice-Power
 A Tower Defense Game with Juice
