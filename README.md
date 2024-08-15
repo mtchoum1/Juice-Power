@@ -30,7 +30,6 @@ To install and play Juice Power, follow these steps:
 
 ## Prerequisites
 
-* Unity
 * OS: Window
 
 ## Steps
@@ -51,7 +50,7 @@ cd Juice-Power
 * Keyboard: Use hotkeys to quickly select towers and manage your defenses.
 * Spacebar: Pause/Resume the game.
 # Development
-Juice Power is built using UNity. The project structure is organized as follows:
+Juice Power is built using Unity. The project structure is organized as follows:
 
 * `/Assets`: Game assets like sprites, sounds, and models.
 * `/Scripts`: All the game logic and tower behaviors.
