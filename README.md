@@ -34,19 +34,17 @@ To install and play Juice Power, follow these steps:
 * OS: Window
 
 ## Steps
-Clone the repository:
-"
-bash
-Copy code
+1. Clone the repository:
+```
 git clone https://github.com/username/juice-power.git
-"
-Navigate to the project directory:
-bash
-Copy code
-cd juice-power
-Open the project in [Game Engine Name].
-Build the project according to your platform (Windows, macOS, Linux).
-Run the game and start playing!
+```
+2. Navigate to the project directory:
+```
+cd Juice-Power
+cd Juice-Power
+```
+3. Open Juice Power.exe
+4. Run the game and start playing!
 
 # Control
 
