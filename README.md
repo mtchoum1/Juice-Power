@@ -47,7 +47,14 @@ cd Juice-Power
 4. Run the game and start playing!
 
 # Control
-
+* Mouse: Place and upgrade towers.
+* Keyboard: Use hotkeys to quickly select towers and manage your defenses.
+* Spacebar: Pause/Resume the game.
 # Development
+Juice Power is built using UNity. The project structure is organized as follows:
 
+* `/Assets`: Game assets like sprites, sounds, and models.
+* `/Scripts`: All the game logic and tower behaviors.
+* `/Scenes`: Different levels and game states.
 # License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code, provided you include the original copyright notice.
